@@ -1,4 +1,4 @@
-在上一篇 [001-Tradingview 引入](https://github.com/Monty-Ma/blog/blob/master/Tradingview%E5%BC%95%E5%85%A5.md) 已经介绍了如何在项目中引入 Tradingview，虽然讲的是如何在 react 中引入 Tradingview，但是基本都是可以通用的。
+在上一篇 [001-Tradingview 引入](https://github.com/Monty-Ma/blog/blob/master/Tradingview/001-Tradingview%E5%BC%95%E5%85%A5.md) 已经介绍了如何在项目中引入 Tradingview，虽然讲的是如何在 react 中引入 Tradingview，但是基本都是可以通用的。
 
 那么，这篇文章我将分享一下如何接入数据的问题
 
